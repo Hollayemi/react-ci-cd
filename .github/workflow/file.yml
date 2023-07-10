@@ -1,8 +1,0 @@
-name: My First ci/cd action
-on: [push]
-jobs:
-    welcome:
-        runs-on: ubuntu-latest
-        steps:
-            - run: echo "Your are welcome to step 1"
-        
