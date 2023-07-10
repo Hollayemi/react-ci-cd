@@ -11,5 +11,5 @@ jobs:
             - name: install node modules
               run: npm
             - name: Build the project
-            - run: node -v
+              run: node -v
         
