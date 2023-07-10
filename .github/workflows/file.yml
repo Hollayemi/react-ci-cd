@@ -9,7 +9,7 @@ jobs:
               with:
                 node-version: 18
             - name: install node modules
-              run: npm
+              run: npm install
             - name: Build the project
               run: node -v
         
