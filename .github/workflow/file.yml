@@ -1,1 +1,2 @@
 name: My First ci/cd action
+on: [push]
