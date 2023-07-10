@@ -68,3 +68,5 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+[![My First ci/cd action](https://github.com/Hollayemi/react-ci-cd/actions/workflows/file.yml/badge.svg)](https://github.com/Hollayemi/react-ci-cd/actions/workflows/file.yml)
