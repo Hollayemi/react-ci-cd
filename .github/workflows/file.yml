@@ -8,5 +8,8 @@ jobs:
             - uses: actions/setup-node@v3
               with:
                 node-version: 18
+            - name: install node modules
+              run: npm
+            - name: Build the project
             - run: node -v
         
